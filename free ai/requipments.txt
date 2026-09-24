@@ -1,0 +1,5 @@
+Flask==3.0.0
+requests==2.31.0
+DO NOT COPY THIS 
+THIS ALSO WANT PIP OPENAI
+IF YOU WANT TO CONTACT ME risaraudana@gmail.com
